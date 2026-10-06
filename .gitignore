@@ -1,0 +1,12 @@
+# Never commit a user's application materials.
+application-data/
+private/
+*.pdf
+*.doc
+*.docx
+*.xlsx
+*.xls
+*.csv
+*.tsv
+.env
+.env.*
